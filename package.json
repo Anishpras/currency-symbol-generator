@@ -1,6 +1,6 @@
 {
   "author": "Anish Prashun <anishprashun118@gmail.com",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "license": "MIT",
   "description": "A minimal package for getting symbol of a currency using the country code.",
   "keywords": [
@@ -28,7 +28,7 @@
     "url": "https://github.com/Anishpras/currency-symbol-generator/issues"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "scripts": {
     "start": "tsdx watch",
