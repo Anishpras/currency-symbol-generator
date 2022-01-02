@@ -1,12 +1,32 @@
 {
+  "author": "Anish Prashun <anishprashun118@gmail.com",
   "version": "0.1.0",
   "license": "MIT",
+  "description": "A minimal package for getting symbol of a currency using the country code.",
+  "keywords": [
+    "currency",
+    "symbol",
+    "react",
+    "typescript",
+    "javascript",
+    "currency symbol",
+    "get currency symbol",
+    "anish prashun"
+  ],
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
     "src"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anishpras/currency-symbol-generator",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/Anishpras/currency-symbol-generator/issues"
+  },
   "engines": {
     "node": ">=10"
   },
@@ -32,7 +52,6 @@
     "trailingComma": "es5"
   },
   "name": "currency-symbol-generator",
-  "author": "Anish Prashun",
   "module": "dist/currency-symbol-generator.esm.js",
   "size-limit": [
     {
